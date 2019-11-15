@@ -1,0 +1,19 @@
+{
+  "libros": [
+    {
+      "id": "CsLzN0T",
+      "nombre": "juanesx",
+      "precio": "111"
+    },
+    {
+      "nombre": "ASDASD",
+      "precio": "222",
+      "id": "RYN2tU2"
+    },
+    {
+      "nombre": "oooooo",
+      "precio": "11",
+      "id": "1DlVsyZ"
+    }
+  ]
+}
